@@ -3,3 +3,5 @@ apple
 cherry
 
 dragonfruit
+
+strawberry
